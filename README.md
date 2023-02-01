@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**raphaeldevrj/raphaeldevrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Raphael, sou desenvolvedor mobile. Ao longo de anos em suporte, por curiosidade resolvi mergulhar a fundo no mundo Android, acredito que me encontrei. Hoje venho me dedicando em aprimorar meus conhecimentos aprendendo principais Bibliotecas e Arquiteturas do mundo android.
+Atualmente presto serviço na empresa Yourdev na implantação de 3 projetos no APP das Americanas. Modo Live(Black Friday), Modo Loja Física, Estante de Livros.Desenvolvo e entrego sprints de diversos segmentos utilizando: activity, fragments, life Cycle, material design, MVVM, MVP,implantação de custom components, gradle, organização de pastas, clean code, consumo de api, jira e github, layouts responsivos.
 
-Here are some ideas to get you started:
+Além disso tenho outros hobbies, como: Tocar violão, ouvir variados tipos de música, jogar futebol e torcer pro Vasco da Gama.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.instagram.com/raphaelrodrigu3s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:raphaelrodriguesrj1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphaelrodriguess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
