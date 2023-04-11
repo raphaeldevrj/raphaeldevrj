@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Raphael, sou desenvolvedor mobile. Ao longo de anos em suporte, por curiosidade resolvi mergulhar a fundo no mundo Android, acredito que me encontrei. Hoje venho me dedicando em aprimorar meus conhecimentos aprendendo principais bibliotecas e arquiteturas do mundo android.
+Me chamo Raphael, sou desenvolvedor mobile. Ao longo de anos em suporte, por curiosidade resolvi a me desafiar a fundo no mundo Android. Hoje venho me dedicando pra aprimorar meus conhecimentos aprendendo principais bibliotecas e arquiteturas do mundo android.
 Atualmente presto serviço na empresa Yourdev na implantação de 3 projetos no APP das Americanas. Modo Live(Black Friday), Modo Loja Física, Estante de Livros.Desenvolvo e entrego sprints de diversos segmentos utilizando: activity, fragments, life Cycle, material design, MVVM, MVP,implantação de custom components, gradle, organização de pastas, clean code, consumo de api, jira e github, layouts responsivos.
 
 Obs: Git  Antigo de projetos pessoais: https://github.com/Raphaelrodriguess
